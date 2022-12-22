@@ -18,9 +18,6 @@ Soy Estudiante de informatica<br>Estoy interesado en el desarrollo web front-end
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=HyugoDev&icon=2&color=1)](https://visitcount.itsvg.in)
 
