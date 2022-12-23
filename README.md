@@ -21,6 +21,11 @@ Soy Estudiante de informatica<br>Estoy interesado en el desarrollo web front-end
 ---
 [![](https://visitcount.itsvg.in/api?id=HyugoDev&icon=2&color=1)](https://visitcount.itsvg.in)
 
+
+![Metrics](https://metrics.lecoq.io/HyugoDev?template=classic&anilist=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&anilist=false&anilist.user=Hyugodev&anilist.medias=anime%2C%20manga&anilist.sections=favorites&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=true&config.timezone=America%2FCosta_Rica)
+
+
+
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@HuguitoCR) 
 
